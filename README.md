@@ -6,4 +6,4 @@ Repo Details:
 - next-rtk-web-host-app -> Host APP (modifying the counterstate in the store)
 - next-rtk-web-remote-app-> Remote APP (Consumes the counterstate and renders the same as JSX)
 
-PS: We can easily convert this to two way realtime communication
+PS: We can easily convert this into a two-way real-time communication
